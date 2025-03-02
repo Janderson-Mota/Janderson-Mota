@@ -122,6 +122,8 @@ Estou sempre em busca de aprendizado contínuo e novas oportunidades para cresce
   
 </p>
 </p>
+
+<br>
     <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Janderson-Mota/Janderson-Mota/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Janderson-Mota/Janderson-Mota/output/github-contribution-grid-snake.svg">

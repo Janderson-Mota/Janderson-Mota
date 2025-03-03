@@ -48,6 +48,7 @@ Estou sempre em busca de aprendizado contínuo e novas oportunidades para cresce
 
 ### 🤖 Linguagens e Tecnologias
 
+
 <img 
     align="left" 
     alt="HTML"
@@ -109,7 +110,7 @@ Estou sempre em busca de aprendizado contínuo e novas oportunidades para cresce
     alt="GitHub Stats" 
     height="170" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Janderson-Mota&show_icons=true&theme=tokyonight&incluide_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Janderson-Mota&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
 <p>

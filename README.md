@@ -25,14 +25,14 @@ Estou sempre em busca de aprendizado contínuo e novas oportunidades para cresce
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Janderson-mota?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Janderson-Mota?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Janderson-Mota?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Janderson-mota?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Janderson-Mota?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
     <a href="mailto:exemplo@email.com?subject=Contato%20via%20GitHub&body=Ol%C3%A1,%20encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato%20para%20discutirmos%20poss%C3%ADveis%20colabora%C3%A7%C3%B5es.%20Por%20favor,%20me%20avise%20se%20estiver%20dispon%C3%ADvel%20para%20uma%20conversa."

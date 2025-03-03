@@ -1,4 +1,4 @@
-# 👨🏾‍💻 Janderson Mota
+# 👩🏾‍💻 Janderson Mota
 
 **`Estudante de Desenvolvimento`**
 

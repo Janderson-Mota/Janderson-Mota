@@ -25,7 +25,7 @@ Estou sempre em busca de aprendizado contínuo e novas oportunidades para cresce
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Janderson-MMota?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Janderson-Mota?color=55960c&labelColor=488207&logo=star&label=estrelas&style=for-the-badge"
         />
     </a>
     <a href="https://github.com/Janderson-Mota?tab=followers">
@@ -110,7 +110,7 @@ Estou sempre em busca de aprendizado contínuo e novas oportunidades para cresce
     alt="GitHub Stats" 
     height="170" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Janderson-MMota&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Janderson-Mota&theme=tokyonight&locale=pt-br&show_icons=true" 
   />
 
 <p>
@@ -118,7 +118,7 @@ Estou sempre em busca de aprendizado contínuo e novas oportunidades para cresce
       align="left" 
       alt="GitHub Stats" 
       height=170" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janderson-MMota&theme=tokyonight&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janderson-Mota&theme=tokyonight&locale=pt-br&layout=compact&custom_title=Tecnologias" 
   />
   
 </p>

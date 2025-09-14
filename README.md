@@ -25,14 +25,14 @@ Estou sempre em busca de aprendizado contínuo e novas oportunidades para cresce
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Janderson-Mota?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Janderson-Mota?color=55960c&logo=star&label=estrelas&style=for-the-badge&labelColor=488207"
         />
     </a>
     <a href="https://github.com/Janderson-Mota?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Janderson-Mota?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Janderson-Mota?color=236ad3&style=for-the-badge&logo=github&label=Seguidores&logoColor=white&labelColor=1155ba"
         />
     </a>
     <a href="mailto:exemplo@email.com?subject=Contato%20via%20GitHub&body=Ol%C3%A1,%20encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato%20para%20discutirmos%20poss%C3%ADveis%20colabora%C3%A7%C3%B5es.%20Por%20favor,%20me%20avise%20se%20estiver%20dispon%C3%ADvel%20para%20uma%20conversa."
@@ -47,6 +47,7 @@ Estou sempre em busca de aprendizado contínuo e novas oportunidades para cresce
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
 
 <img 
     align="left" 
@@ -83,14 +84,6 @@ Estou sempre em busca de aprendizado contínuo e novas oportunidades para cresce
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
@@ -109,7 +102,7 @@ Estou sempre em busca de aprendizado contínuo e novas oportunidades para cresce
     alt="GitHub Stats" 
     height="170" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Janderson-Mota&show_icons=true&theme=tokyonight&incluide_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Janderson-Mota&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
 <p>
@@ -117,7 +110,7 @@ Estou sempre em busca de aprendizado contínuo e novas oportunidades para cresce
       align="left" 
       alt="GitHub Stats" 
       height=170" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janderson-Mota&theme=tokyonight&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janderson-Mota&custom_title=Tecnologias&theme=tokyonight&layout=compact&locale=pt-br" 
   />
   
 </p>

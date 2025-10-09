@@ -110,7 +110,7 @@ Estou sempre em busca de aprendizado contínuo e novas oportunidades para cresce
       align="left" 
       alt="GitHub Stats" 
       height=170" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janderson-Mota&custom_title=Tecnologias&theme=tokyonight&layout=compact&locale=pt-br" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janderson-Mota&custom_title=Tecnologias&theme=tokyonight&locale=pt-br&layout=compact" 
   />
   
 </p>

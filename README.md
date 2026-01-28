@@ -120,7 +120,7 @@ Atualmente, atuo como Estagiário em Desenvolvimento de Software no Banco do Bra
     alt="GitHub Stats" 
     height="170" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Janderson-Mota&locale=pt-br&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api?username=Janderson-Mota&locale=pt-br&theme=tokyonight&show_icons=true" 
   />
 
 <p>
@@ -128,7 +128,7 @@ Atualmente, atuo como Estagiário em Desenvolvimento de Software no Banco do Bra
       align="left" 
       alt="GitHub Stats" 
       height=170" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janderson-Mota&theme=tokyonight&custom_title=Tecnologias&locale=pt-br&layout=compact" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janderson-Mota&theme=tokyonight&custom_title=Tecnologias&layout=compact&locale=pt-br" 
   />
   
 </p>

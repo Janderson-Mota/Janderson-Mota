@@ -2,9 +2,7 @@
 
 **`Estudante de Desenvolvimento`**
 
-Meu nome é Janderson Mota, tenho 19 anos e sou natural de Minas Gerais. Sou estudante de Ciência da Computação no Centro Universitário UNA, com foco na área de desenvolvimento.
-Estou aprendendo linguagens de programação e em busca de oportunidades para trabalhar em projetos relevantes que possam impactar positivamente as pessoas. 
-Estou sempre em busca de aprendizado contínuo e novas oportunidades para crescer e contribuir na área de tecnologia.
+Atualmente, atuo como Estagiário em Desenvolvimento de Software no Banco do Brasil, participando do ciclo de desenvolvimento full stack. Meu foco está na evolução de sistemas críticos, unindo uma lógica de backend robusta a interfaces intuitivas, sempre com atenção à integridade e segurança dos dados. Transformo a complexidade de sistemas em soluções simples, seguras e eficientes, gerando valor direto para a operação.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/janderson-mota/">

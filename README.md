@@ -96,9 +96,22 @@ Estou sempre em busca de aprendizado contínuo e novas oportunidades para cresce
     alt="Php" 
     title="Php"
     width="30px" 
+    height="50px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  
 />  
+
+<img 
+    align="left" 
+    alt="Mysql" 
+    title="Mysql"
+    width="30px" 
+    height="50px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>  
+
+
           
 <br/>
 <br/>

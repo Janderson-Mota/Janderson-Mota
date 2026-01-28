@@ -95,7 +95,7 @@ Estou sempre em busca de aprendizado contínuo e novas oportunidades para cresce
     align="left" 
     alt="Php" 
     title="Php"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  
 />  
@@ -104,7 +104,7 @@ Estou sempre em busca de aprendizado contínuo e novas oportunidades para cresce
     align="left" 
     alt="Mysql" 
     title="Mysql"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />  

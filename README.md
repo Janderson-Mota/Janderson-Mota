@@ -127,7 +127,7 @@ Atualmente, atuo como Estagiário em Desenvolvimento de Software no Banco do Bra
     align="left" 
     alt="Top Langs" 
     height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janderson-Mota&custom_title=Tecnologias&theme=tokyonight&locale=pt-br&layout=compact&count_private=true" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janderson-Mota&theme=tokyonight&custom_title=Tecnologias&locale=pt-br&layout=compact&count_private=true" 
   />
 </p>
 

@@ -115,19 +115,19 @@ Atualmente, atuo como Estagiário em Desenvolvimento de Software no Banco do Bra
 ## 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="170" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Janderson-Mota&locale=pt-br&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+  <img
+    align="left"
+    height="170"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats-fast.vercel.app/api?username=Janderson-Mota&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
+    alt="GitHub Stats"
   />
 
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janderson-Mota&theme=tokyonight&custom_title=Tecnologias&locale=pt-br&count_private=true&layout=compact" 
+  <img
+    align="left"
+    height="170"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Janderson-Mota&layout=compact&theme=tokyonight&locale=pt-br"
+    alt="Top Langs"
   />
 </p>
 

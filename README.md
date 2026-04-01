@@ -27,14 +27,12 @@ Atualmente, no **Banco do Brasil**, atuo na evolução de **sistemas legados** e
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,git,github,docker,java,spring,laravel,mysql,php,postman,tailwind"/>
 </div>
 
-
-## 📊 GitHub Analytics
+## 📊 Indicadores de Performance e Impacto
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-five-alpha-81.vercel.app/api?username=Janderson-Mota&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats-five-alpha-81.vercel.app/api/top-langs/?username=Janderson-Mota&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-five-alpha-81.vercel.app/api?username=Janderson-Mota&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&custom_title=Resumo%20Geral%20de%20Contribuições" alt="Resumo Geral de Contribuições" />
+  <img height="170" src="https://github-readme-stats-five-alpha-81.vercel.app/api/top-langs/?username=Janderson-Mota&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=hack&locale=pt-br&custom_title=Tecnologias%20mais%20Utilizadas" alt="Tecnologias mais Utilizadas" />
 </div>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Janderson-Mota/Janderson-Mota/output/github-contribution-grid-snake-dark.svg">

@@ -30,8 +30,8 @@ Atualmente, no **Banco do Brasil**, atuo na evolução de **sistemas legados** e
 ## 📊 Indicadores de Performance e Impacto
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-five-alpha-81.vercel.app/api?username=Janderson-Mota&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&custom_title=Resumo%20Geral%20de%20Contribuições" alt="Resumo Geral de Contribuições" />
-  <img height="170" src="https://github-readme-stats-five-alpha-81.vercel.app/api/top-langs/?username=Janderson-Mota&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=hack&locale=pt-br&custom_title=Tecnologias%20mais%20Utilizadas" alt="Tecnologias mais Utilizadas" />
+  <img height="170" src="https://github-readme-stats-five-alpha-81.vercel.app/api?username=Janderson-Mota&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br&custom_title=Produção%20Técnica%20(2026)" alt="Produção Técnica 2026" />
+  <img height="170" src="https://github-readme-stats-five-alpha-81.vercel.app/api/top-langs/?username=Janderson-Mota&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=hack&locale=pt-br&custom_title=Stack%20de%20Desenvolvimento" alt="Stack de Desenvolvimento" />
 </div>
 
 <picture>

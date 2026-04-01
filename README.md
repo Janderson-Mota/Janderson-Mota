@@ -31,8 +31,8 @@ Atualmente, no **Banco do Brasil**, atuo na evolução de **sistemas legados** e
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Janderson-Mota&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Janderson-Mota&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats-five-alpha-81.vercel.app/api?username=Janderson-Mota&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-five-alpha-81.vercel.app/api/top-langs/?username=Janderson-Mota&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 

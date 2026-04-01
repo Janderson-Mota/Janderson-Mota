@@ -18,7 +18,7 @@ Atualmente, no **Banco do Brasil**, atuo na evolução de **sistemas legados** e
 * 🛠️ **Modernização:** Evolução e otimização de sistemas legados com segurança.
 * 🏗️ **Arquitetura Fullstack:** De APIs robustas a interfaces intuitivas e tipadas.
 * 📊 **Suporte à Decisão:** Dashboards e automações para inteligência executiva.
-* 
+
 > *Ferramenta é meio. Engenharia e resultado são o diferencial.*
 
 ## 🚀 Tecnologias e Ferramentas

@@ -1,114 +1,39 @@
-# 👨🏾‍💻 Janderson Mota
-
-**`Estudante de Desenvolvimento`**
-
-Atualmente, atuo como Estagiário em Desenvolvimento de Software no Banco do Brasil, participando do ciclo de desenvolvimento full stack. Meu foco está na evolução de sistemas críticos, unindo uma lógica de backend robusta a interfaces intuitivas, sempre com atenção à integridade e segurança dos dados. Transformo a complexidade de sistemas em soluções simples, seguras e eficientes, gerando valor direto para a operação.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/janderson-mota/">
-    <img 
-      alt="LinkedIn" 
-      title="Conecte-se comigo no LinkedIn." 
-      src="https://custom-icon-badges.demolab.com/badge/-LinkedIn?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=in&label=LinkedIn&logoColor=white" 
-    />
-  </a>
-
-  <a href="https://www.instagram.com/jandin.silvx/">
-    <img 
-      alt="Instagram" 
-      title="Me siga no Instagram" 
-      src="https://custom-icon-badges.demolab.com/badge/-instagram?color=%23E05D44&label=Instagram&logo=instagram&logoColor=white&style=for-the-badge&labelColor=CE4630"
-    />
-  </a>
-
-  <a href="https://github.com/Janderson-Mota?tab=stars">
-    <img 
-      alt="Total de estrelas" 
-      title="Total de estrelas GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/Janderson-Mota?color=55960c&logo=star&label=estrelas&style=for-the-badge&labelColor=488207"
-    />
-  </a>
-
-  <a href="https://github.com/Janderson-Mota?tab=followers">
-    <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/Janderson-Mota?color=236ad3&style=for-the-badge&logo=github&label=Seguidores&logoColor=white&labelColor=1155ba"
-    />
-  </a>
-
-  <a href="mailto:exemplo@email.com?subject=Contato%20via%20GitHub&body=Ol%C3%A1,%20encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato%20para%20discutirmos%20poss%C3%ADveis%20colabora%C3%A7%C3%B5es.%20Por%20favor,%20me%20avise%20se%20estiver%20dispon%C3%ADvel%20para%20uma%20conversa.">
-    <img 
-      alt="E-mail" 
-      title="Caso tenha interesse, sinta-se à vontade para entrar em contato por e-mail." 
-      src="https://custom-icon-badges.demolab.com/badge/-Gmail?color=%23E05D44&label=E-mail&logo=gmail&logoColor=white&style=for-the-badge&labelColor=CE4630"
-    />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=2600&pause=900&color=C4B5FD&center=true&vCenter=true&width=900&lines=Cientista+da+Computa%C3%A7%C3%A3o+%7C+Desenvolvedor+de+Software;Sistemas+robustos%2C+escal%C3%A1veis+e+seguros;Interfaces+intuitivas%2C+fluidas+e+de+alta+performance" />
 </p>
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## 💻 Sobre mim
 
-<img 
-  align="left" 
-  alt="HTML"
-  title="HTML" 
-  width="30px" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="CSS" 
-  title="CSS"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="JavaScript" 
-  title="JavaScript"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Git" 
-  title="Git"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Java" 
-  title="Java"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  
-/>
-<img 
-  align="left" 
-  alt="PHP" 
-  title="PHP"
-  width="40px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  
-/>
-<img 
-  align="left" 
-  alt="MySQL" 
-  title="MySQL"
-  width="40px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um desenvolvedor no computador" />
 
-<br/>
-<br/>
+Olá! Eu sou o **Janderson**, **Cientista da Computação em formação** e **Desenvolvedor de Software** focado em engenharia de alta performance e sistemas robustos.
+
+Atualmente, no **Banco do Brasil**, atuo na evolução de **sistemas legados** e no desenvolvimento de novas soluções robustas, unindo lógica de backend sólida a interfaces eficientes. Minha prioridade é otimizar operações em larga escala, entregando resultados que impactam diretamente a eficiência e o desempenho financeiro da operação.
+
+**Foco em resultados e entregas:**
+
+* 🚀 **Performance:** Transformo gargalos de minutos em execuções de segundos.
+* 🛠️ **Modernização:** Evolução e otimização de sistemas legados com segurança.
+* 🏗️ **Arquitetura Fullstack:** De APIs robustas a interfaces intuitivas e tipadas.
+* 📊 **Suporte à Decisão:** Dashboards e automações para inteligência executiva.
+* 
+> *Ferramenta é meio. Engenharia e resultado são o diferencial.*
+
+## 🚀 Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,git,github,docker,java,spring,laravel,mysql,php,ps,postman,tailwind"/>
+</div>
+
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=debs-veras&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=debs-veras&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 
 <picture>
@@ -116,3 +41,30 @@ Atualmente, atuo como Estagiário em Desenvolvimento de Software no Banco do Bra
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Janderson-Mota/Janderson-Mota/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Janderson-Mota/Janderson-Mota/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
+## 🌐 Vamos nos conectar?
+
+<div align="center">
+
+<a href="mailto:janderson.mota.trabalho@gmail.com?subject=Contato%20via%20GitHub">
+  <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/janderson-mota/">
+  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://wa.me/5531983457470">
+  <img src="https://img.shields.io/badge/WhatsApp-7C3AED?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="https://github.com/Janderson-Mota/">
+  <img src="https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/jandin.silvx/">
+  <img src="https://img.shields.io/badge/Instagram-4C1D95?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+

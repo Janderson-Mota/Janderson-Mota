@@ -21,11 +21,11 @@ Atualmente, no **Banco do Brasil**, atuo na evolução de **sistemas legados** e
 
 > *Ferramenta é meio. Engenharia e resultado são o diferencial.*
 
-## 🚀 Tecnologias e Ferramentas
+ <!--## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,git,github,docker,java,spring,laravel,mysql,php,postman,tailwind"/>
-</div>
+</div> -->
 
 ## 📊 Indicadores de Performance (2026)
 

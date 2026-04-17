@@ -27,6 +27,12 @@ Atualmente, no **Banco do Brasil**, atuo na evolução de **sistemas legados** e
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,git,github,docker,java,spring,laravel,mysql,php,postman,tailwind"/>
 </div> -->
 
+## 🚀 Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,java,mysql,php"/>
+</div>
+
 ## 📊 Indicadores de Performance (2026)
 
 <div align="center">

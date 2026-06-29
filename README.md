@@ -25,7 +25,20 @@ Atualmente, no **Banco do Brasil**, atuo na evolução de **sistemas legados** e
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,git,github,docker,java,spring,laravel,mysql,php,postman,tailwind"/>
-</div> -->
+</div> 
+
+ <!-- TESTE -->
+    <div vw class="enabled">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+
+    <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+    <script>new window.VLibras.Widget('https://vlibras.gov.br/app'); </script>
+    
+  -->
 
 ## 🚀 Tecnologias e Ferramentas
 

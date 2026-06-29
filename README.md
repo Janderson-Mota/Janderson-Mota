@@ -26,8 +26,6 @@ Atualmente, no **Banco do Brasil**, atuo na evolução de **sistemas legados** e
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,git,github,docker,java,spring,laravel,mysql,php,postman,tailwind"/>
 </div> 
-
- <!-- TESTE -->
     <div vw class="enabled">
       <div vw-access-button class="active"></div>
       <div vw-plugin-wrapper>

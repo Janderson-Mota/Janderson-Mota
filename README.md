@@ -14,14 +14,14 @@ Atualmente, no **Banco do Brasil**, atuo na evolução de **sistemas legados** e
 
 **Foco em resultados e entregas:**
 
-* 🚀 **Performance:** Transformo gargalos de minutos em execuções de segundos.
-* 🛠️ **Modernização:** Evolução e otimização de sistemas legados com segurança.
-* 🏗️ **Arquitetura Fullstack:** De APIs robustas a interfaces intuitivas e tipadas.
-* 📊 **Suporte à Decisão:** Dashboards e automações para inteligência executiva.
+* **Performance:** Transformo gargalos de minutos em execuções de segundos.
+*  **Modernização:** Evolução e otimização de sistemas legados com segurança.
+* **Arquitetura Fullstack:** De APIs robustas a interfaces intuitivas e tipadas.
+* **Suporte à Decisão:** Dashboards e automações para inteligência executiva.
 
 > *Ferramenta é meio. Engenharia e resultado são o diferencial.*
 
- <!--## 🚀 Tecnologias e Ferramentas
+ <!--##  Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,git,github,docker,java,spring,laravel,mysql,php,postman,tailwind"/>
@@ -38,13 +38,13 @@ Atualmente, no **Banco do Brasil**, atuo na evolução de **sistemas legados** e
     
   -->
 
-## 🚀 Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,git,github,java,mysql,php"/>
 </div>
 
-<!-- ## 📊 Indicadores de Performance (2026)
+<!-- ##  Indicadores de Performance (2026)
 
 <div align="center">
 
@@ -62,7 +62,7 @@ Atualmente, no **Banco do Brasil**, atuo na evolução de **sistemas legados** e
 
 ---
 
-## 🌐 Vamos nos conectar?
+##  Vamos nos conectar?
 
 <div align="center">
 

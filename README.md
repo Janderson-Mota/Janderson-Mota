@@ -8,40 +8,17 @@
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um desenvolvedor no computador" />
 
-Olá! Eu sou o **Janderson**, **Cientista da Computação em formação** e **Desenvolvedor de Software** focado em engenharia de alta performance e sistemas robustos.
+Olá! Eu sou o Janderson, formando em Ciência da Computação e desenvolvedor de software com foco em performance e sistemas robustos.
+Atualmente trabalho no Banco do Brasil, evoluindo sistemas legados e construindo novas soluções, unindo backend sólido a interfaces eficientes. Meu foco é otimizar operações em larga escala e entregar resultados que realmente impactam a eficiência da operação.
 
-Atualmente, no **Banco do Brasil**, atuo na evolução de **sistemas legados** e no desenvolvimento de novas soluções robustas, unindo lógica de backend sólida a interfaces eficientes. Minha prioridade é otimizar operações em larga escala, entregando resultados que impactam diretamente a eficiência e o desempenho financeiro da operação.
-
-**Foco em resultados e entregas:**
-
-* **Performance:** Transformo gargalos de minutos em execuções de segundos.
-*  **Modernização:** Evolução e otimização de sistemas legados com segurança.
-* **Arquitetura Fullstack:** De APIs robustas a interfaces intuitivas e tipadas.
-* **Suporte à Decisão:** Dashboards e automações para inteligência executiva.
 
 > *Ferramenta é meio. Engenharia e resultado são o diferencial.*
 
- <!--##  Tecnologias e Ferramentas
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,git,github,docker,java,spring,laravel,mysql,php,postman,tailwind"/>
-</div> 
-    <div vw class="enabled">
-      <div vw-access-button class="active"></div>
-      <div vw-plugin-wrapper>
-        <div class="vw-plugin-top-wrapper"></div>
-      </div>
-    </div>
-
-    <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
-    <script>new window.VLibras.Widget('https://vlibras.gov.br/app'); </script>
-    
-  -->
 
 ##  Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,java,mysql,php"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,git,github,java,mysql,php"/>
 </div>
 
 <!-- ##  Indicadores de Performance (2026)
